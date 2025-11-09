@@ -3,7 +3,7 @@
 
 **Project Status:** ✅ **COMPLETED**  
 **Date:** November 2025  
-**Developer:** [Your Name]  
+**Developer:** Aravind S S  
 **Project Type:** BE Major Project
 
 ---
