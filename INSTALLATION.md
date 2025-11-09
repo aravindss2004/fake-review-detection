@@ -15,7 +15,7 @@ Complete step-by-step installation instructions for the Fake Review Detection Sy
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fake-review-detection.git
+git clone https://github.com/aravindss2004/fake-review-detection.git
 cd fake-review-detection
 ```
 
@@ -417,7 +417,7 @@ chmod +x start.sh
 - **Documentation:** See `README.md`
 - **Datasets:** See `DATASETS.md`
 - **Deployment:** See `DEPLOYMENT.md`
-- **Issues:** https://github.com/yourusername/fake-review-detection/issues
+- **Issues:** https://github.com/aravindss2004/fake-review-detection/issues
 
 ---
 
