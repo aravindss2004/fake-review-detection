@@ -376,7 +376,7 @@ python train_model.py
 ## 🆘 Getting Help
 
 1. **Check Documentation:** Most questions answered in docs
-2. **Search Issues:** https://github.com/yourusername/fake-review-detection/issues
+2. **Search Issues:** https://github.com/aravind2004/fake-review-detection/issues
 3. **Ask Questions:** Open a new issue on GitHub
 4. **Review Code:** All code is commented
 
@@ -431,10 +431,10 @@ What makes this project special:
 ## 📞 Support
 
 **GitHub Repository:**
-https://github.com/yourusername/fake-review-detection
+https://github.com/aravindss2004/fake-review-detection
 
 **Report Issues:**
-https://github.com/yourusername/fake-review-detection/issues
+https://github.com/aravindss2004/fake-review-detection/issues
 
 **Developer:** Your Name
 
