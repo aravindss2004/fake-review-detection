@@ -199,4 +199,4 @@ If using this system in research, please cite:
 ---
 
 **Need Help?**
-Open an issue on GitHub: https://github.com/yourusername/fake-review-detection/issues
+Open an issue on GitHub: https://github.com/aravindss2004/fake-review-detection/issues
