@@ -299,8 +299,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For questions or suggestions, please open an issue or contact:
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Repository: [fake-review-detection](https://github.com/yourusername/fake-review-detection)
+- GitHub: [@yourusername](https://github.com/aravindss2004)
+- Repository: [fake-review-detection](https://github.com/aravindss2004/fake-review-detection)
 
 ---
 
