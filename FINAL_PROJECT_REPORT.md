@@ -548,7 +548,7 @@ The system is:
 ## 📞 **PROJECT INFORMATION**
 
 **Developer:** [Your Name]  
-**GitHub:** https://github.com/yourusername/fake-review-detection  
+**GitHub:** https://github.com/aravindss2004/fake-review-detection  
 **Project Type:** BE Major Project  
 **Status:** ✅ **COMPLETED**  
 **Date:** 2025  
