@@ -394,7 +394,7 @@ docker run -m 2g -p 5000:5000 fake-review-detection
 ## Support
 
 For deployment issues:
-- GitHub Issues: https://github.com/yourusername/fake-review-detection/issues
+- GitHub Issues: https://github.com/aravindss2004/fake-review-detection/issues
 - Documentation: Check README.md
 
 ---
