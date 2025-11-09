@@ -442,9 +442,8 @@ Contributions are welcome! See `CONTRIBUTING.md` for guidelines.
 
 ## 📞 Support & Contact
 
-- **GitHub:** https://github.com/yourusername/fake-review-detection
-- **Issues:** https://github.com/yourusername/fake-review-detection/issues
-- **Developer:** Your Name
+- **GitHub:** https://github.com/aravindss2004/fake-review-detection
+- **Developer:** Aravind S S
 
 ---
 
