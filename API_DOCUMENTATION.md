@@ -453,7 +453,7 @@ http://localhost:5000/v2/predict
 ## Support
 
 For API issues or questions:
-- GitHub Issues: https://github.com/yourusername/fake-review-detection/issues
+- GitHub Issues: https://github.com/aravindss2004/fake-review-detection/issues
 - Documentation: See README.md
 
 ---
