@@ -231,7 +231,7 @@ Text → TF-IDF (5000 features) + Linguistic Features (9 features)
 
 **Ensemble Prediction:**
 ```
-Features → LightGBM │
+Features → LightGBM  │
                      ├→ Voting → Final Prediction
           → CatBoost │
                      │
@@ -246,7 +246,7 @@ Features → LightGBM │
 - **Installation Issues:** `INSTALLATION.md`
 - **Dataset Help:** `DATASETS.md`
 - **Deployment:** `DEPLOYMENT.md`
-- **GitHub Issues:** https://github.com/yourusername/fake-review-detection/issues
+- **GitHub Issues:** https://github.com/aravindss2004/fake-review-detection/issues
 
 ---
 
